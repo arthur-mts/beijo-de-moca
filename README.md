@@ -1,5 +1,8 @@
 # Projeto-Beijo-de-Moca
-Projeto final da disciplina de Estatística aplicada a computação
+**Projeto final da disciplina de Estatística aplicada a computação** \
+Tem o objetivo de gerar interpreções sobre os gastos públicos suspeitos feitos por deputados e senadores com \
+dados disponibilizados pelo Jarbas, um site onde é possível navegar pelos gastos e descobrir mais sobre cada suspeita,
+de maneira simples e descomplicada.
 
 
 ## Links uteis
@@ -24,3 +27,4 @@ usar a API, e não os dados da Serenata de Amor, que estão meio desorganizados.
 - [requests](https://2.python-requests.org/en/master/) para as requisições HTTP e APIs.
 - [serenata-toolbox](https://github.com/okfn-brasil/serenata-toolbox) para a base de dados do projeto Serenata de Amor.
 - [pandas](https://pandas.pydata.org/) para analise de dados e gráficos (com matplotlib).
+---
