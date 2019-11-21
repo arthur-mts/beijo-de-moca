@@ -3,12 +3,14 @@ Projeto final da disciplina de Estatística aplicada a computação
 
 
 ## Links uteis
-- [serenata-toolbox](https://github.com/okfn-brasil/serenata-toolbox)
+- [serenata-toolbox](https://github.com/okfn-brasil/serenata-toolbox)  
+
 - [API para acessar os dados dos senadores](http://legis.senado.leg.br/dadosabertos/docs/resource_ListaSenadorService.html#resource_ListaSenadorService_cargosSenadorXml_GET)  
-- [API para acessar os dados dos deputados](https://dadosabertos.camara.leg.br/swagger/api.html)
+- [API para acessar os dados do Portal da Transparência](http://www.transparencia.gov.br/swagger-ui.html)
+ [API para acessar os dados dos deputados](https://dadosabertos.camara.leg.br/swagger/api.html)  
+
 - [O que é a CEAP? (Cota para o exercício da atividade parlamentar
 )](https://www2.camara.leg.br/transparencia/acesso-a-informacao/copy_of_perguntas-frequentes/cota-para-o-exercicio-da-atividade-parlamentar) 
-
 
 ## Acessando API do governo
 - É preciso capturar os dados dos senadores/deputados das APIs do Senado e do Legislativo. Para isso, vamos usar a lib
